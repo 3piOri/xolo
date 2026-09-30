@@ -505,6 +505,17 @@ body {
     color: var(--primary-color);
 }
 
+.airbnb-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 6px;
+}
+
+.airbnb-link i {
+    font-size: 1.25rem;
+}
+
 .footer-bottom {
     text-align: center;
     padding: 15px 20px;
